@@ -11,7 +11,7 @@
     <artifactId>courseapp-dev</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>courseapp-dev</name>
-    <description>course application demo</description>
+    <description>This is a course application for azure experiment</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
